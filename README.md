@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ujjwal Mishra</h1>
 <h3 align="center">🚀 A passionate learner in tech and a future Software Developer</h3>
 

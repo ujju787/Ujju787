@@ -62,8 +62,8 @@ Here are some project ideas you can create and upload:
 
 ### 📫 Connect With Me
 
-- **Email:** [uk.mishr99@gmail.com(email)]  
-- **LinkedIn:** [linkedin.com/in/](#)
+- **Email:** [uk.mishr99@gmail.com](uk.mishr99@gmail.com) 
+- **LinkedIn:** [linkedin.com/in/ujjwalkumarmishra](http://bit.ly/4elLLAx)
 - **GitHub:** [github.com/ujju787](https://github.com/ujju787)
 
 ---
@@ -71,6 +71,7 @@ Here are some project ideas you can create and upload:
 ### ⚡ Fun Fact
 
 > “The best way to learn programming is by building something useful —
+> “Learning never stops. Build. Fail. Learn. Repeat.-"
 
 <!--
 **ujju787/Ujju787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

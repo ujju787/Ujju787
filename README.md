@@ -9,8 +9,10 @@
 ---
 
 ### 👨‍🎓 About Me
+- 🎓 Currently pursuing **Bachelor of technology in  Computer science and engineering (B.Tech)** from **G.E.C. Palamu**
 
-- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)** from **IGNOU**  
+- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)** from **IGNOU**
+- 
 - 🎓 Completed **Diploma in Computer Science and Engineering**
 - 💡 Interested in **Web Development, Python Programming, and Cloud Computing**
 - 🔭 Currently working on:
